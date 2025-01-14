@@ -17,6 +17,8 @@
             ushort num6 = 60; // 16 bits, de 0 a 65.535
             uint num7 = 70; // 32 bits, de 0 a 4.294.967.295
             ulong num8 = 80L; // 64 bits, de 0 a 18.446.744.073.709.551.615
-        }
+
+            sbyte numero = 100;
+        }   
     } 
 }
